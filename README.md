@@ -1,0 +1,1 @@
+# array-getting-input-from-user
